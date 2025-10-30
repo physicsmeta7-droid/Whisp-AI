@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Whisp/main/assets/whisp-logo.png" width="120" alt="Whisp logo"/>
+  <img width="220" alt="Whisp logo" src="https://github.com/user-attachments/assets/181d3a11-b767-495f-872b-cf338971221e" />
 </p>
 
 <h1 align="center">🪶 Whisp</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/solana-mainnet--beta-purple?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/solana-mainnet--beta-6b26fc?style=for-the-badge&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME/Whisp?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/Whisp?style=for-the-badge" />
 </p>
@@ -20,9 +20,9 @@
 ## 🚀 Overview
 
 **Whisp** is a Solana-based AI spirit that posts funny, crypto-style messages on-chain.  
-Whenever your token’s transactions occur, Whisp reacts with unique, sarcastic one-liners — directly on the blockchain.
+Whenever your token’s transactions occur, Whisp reacts with unique, sarcastic one-liners — directly written to the blockchain as memos.
 
-Built with:
+### 🧠 Powered by
 - 🪶 **Solana Web3.js**
 - ⚙️ **Node.js (Express backend)**
 - 💬 **On-chain Memo program**
@@ -35,7 +35,7 @@ Built with:
 ✅ Generates thousands of unique “Whisp : …” phrases  
 ✅ Uses simple JSON wallet key for signing  
 ✅ Easy to run and extend  
-✅ Open source — run your own Whisp clone!
+✅ Open source — deploy your own Whisp clone!
 
 ---
 
