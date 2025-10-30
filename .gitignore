@@ -1,0 +1,19 @@
+# Ignore environment files and secrets
+.env
+*.key
+*.pem
+*.crt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules (if it’s JS project)
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

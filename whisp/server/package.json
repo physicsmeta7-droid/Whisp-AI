@@ -1,0 +1,20 @@
+{
+  "name": "whisp-server",
+  "version": "1.0.0",
+  "description": "Whisp AI backend — local Ollama version (free).",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3",
+    "bs58": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  },
+  "author": "You",
+  "license": "MIT"
+}
